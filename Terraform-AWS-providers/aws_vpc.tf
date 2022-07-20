@@ -8,5 +8,3 @@ resource "aws_vpc" "mainvpc" {
     Name = "mainvpc"
   }
 }
-
-#dfdsfshfsoifisdo
